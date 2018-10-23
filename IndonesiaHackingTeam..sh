@@ -32,7 +32,7 @@ figlet The Last Key | lolcat
 echo  "_____________________________________________________________" | lolcat
 echo  "[TYPE      : TOOLS INSTALLER] " |lolcat
 echo  "[VERSION   : V.4] " | lolcat
-echo  "[TOTALS    : 400++ TOOLS] " | lolcat
+echo  "[TOTALS    : 19 TOOLS] " | lolcat
 echo  "[AUTHOR    : TheLastKey420] " |lolcat
 echo  "[ASSOCIATE : Indonesia Defacer Team] " |lolcat
 echo  "[ASSOCIATE : Hacker NewBie] " |lolcat
@@ -87,7 +87,7 @@ echo  "SABAR YAK NUNGGU NYA :v " | lolcat
 echo  "#TTD TheLastKey420 GANS 😎" | lolcat
 echo  "#LastKey MAH BEBAS😎" | lolcat
 echo ""
-echo  "TUNGGU KURANG LEBIH 5 MENIT"
+echo  "TUNGGU KURANG LEBIH 1 MENIT"
 echo ""  
 echo ""  
 
