@@ -93,49 +93,44 @@ echo ""
 
 echo -e "SelamatMenikmatiHeheheTheLastkeySangPeniruCommad" | lolcat
 echo ""
-echo ""
 echo -e "============================" | lolcat
-echo -e $b "349. Install mitmAP${enda}";
+echo -e $b "1. Install mitmAP${enda}";
 echo -e "============================" | lolcat
-echo -e $b "350. Install Red-Teamming-Toolkit${enda}";
+echo -e $b "2. Install Red-Teamming-Toolkit${enda}";
 echo -e "============================" | lolcat
-echo -e $b "351. Install ssh-mimtm${enda}";
+echo -e $b "3. Install ssh-mimtm${enda}";
 echo -e "============================" | lolcat
-echo -e $b "352. Install Raccoon${enda}";
+echo -e $b "4. Install Raccoon${enda}";
 echo -e "============================" | lolcat
-echo -e $b "353. Install CTFR${enda}";
+echo -e $b "5. Install CTFR${enda}";
 echo -e "============================" | lolcat
-echo -e $b "354. Install Exploit${enda}";
+echo -e $b "6. Install Exploit${enda}";
 echo -e "============================" | lolcat
-echo -e $b "355. Install NoSQLMap${enda}";
+echo -e $b "7. Install NoSQLMap${enda}";
 echo -e "============================" | lolcat
-echo -e $b "356. Install Dr0p1t-Framework${enda}";
+echo -e $b "8. Install Dr0p1t-Framework${enda}";
 echo -e "============================" | lolcat
-echo -e $b "357. Install Subfinder${enda}";
+echo -e $b "9. Install Subfinder${enda}";
 echo -e "============================" | lolcat
-echo -e $b "358. Install SwiftKeylogger${enda}";
+echo -e $b "10. Install SwiftKeylogger${enda}";
 echo -e "============================" | lolcat
-echo -e $b "359. Install Dockerscan${enda}";
+echo -e $b "11. Install Dockerscan${enda}";
 echo -e "============================" | lolcat
-echo -e $b "388. Install prank${enda}";
+echo -e $b "12. Install Kubik-Bot${enda}";
 echo -e "============================" | lolcat
-echo -e $b "389. Install Jadwal-Sholat${enda}";
+echo -e $b "13. Install Icebreaker${enda}";
 echo -e "============================" | lolcat
-echo -e $b "390. Install Kubik-Bot${enda}";
+echo -e $b "14. Install Blackarch${enda}";
 echo -e "============================" | lolcat
-echo -e $b "391. Install Icebreaker${enda}";
+echo -e $b "15. Install WEBDAV${enda}";
 echo -e "============================" | lolcat
-echo -e $b "392. Install Blackarch${enda}";
+echo -e $b "16. Install Weevely${enda}";
 echo -e "============================" | lolcat
-echo -e $b "393. Install WEBDAV${enda}";
+echo -e $b "17. Install Dirsearch.git${enda}";
 echo -e "============================" | lolcat
-echo -e $b "394. Install Weevely${enda}";
+echo -e $b "18. Install BluePot.git${enda}";
 echo -e "============================" | lolcat
-echo -e $b "395. Install Dirsearch.git${enda}";
-echo -e "============================" | lolcat
-echo -e $b "396. Install BluePot.git${enda}";
-echo -e "============================" | lolcat
-echo -e $b "397. Install bot.git${enda}";
+echo -e $b "19. Install bot.git${enda}";
 echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
@@ -145,92 +140,93 @@ read -p "╰─root@./TheLastKey=" pil;
 
 #Install mitmAP
 
-349) git clone https://github.com/xdavidhu/mitmAP
+case $pil in
+1) git clone https://github.com/xdavidhu/mitmAP
 
 ;;
 
 
 #Install Red-Teamming-Toolkit
 
-350) git clone https://github.com/infosecn1nja/Red-Teaming-Toolkit
+2) git clone https://github.com/infosecn1nja/Red-Teaming-Toolkit
 
 ;;
 
 #Install ssh-mimtm
 
-351) git clone https://github.com/jtesta/ssh-mitm
+3) git clone https://github.com/jtesta/ssh-mitm
 
 ;;
 
 #Install Racoon
 
-352) git clone https://github.com/evyatarmeged/Raccoon
+4) git clone https://github.com/evyatarmeged/Raccoon
 
 ;;
 
 #Install CTFR
 
-353) git clone https://github.com/UnaPibaGeek/ctfr
+5) git clone https://github.com/UnaPibaGeek/ctfr
 
 ;;
 
 #Install Exploits
 
-354) git clone https://github.com/XiphosResearch/exploits
+6) git clone https://github.com/XiphosResearch/exploits
 
 ;;
 
 #Install NoSQLMap
 
-355) git clone https://github.com/codingo/NoSQLMap
+7) git clone https://github.com/codingo/NoSQLMap
 
 ;;
 
 #Install Dr0p1t-Framework
 
-356) git clone https://github.com/D4Vinci/Dr0p1t-Framework
+8) git clone https://github.com/D4Vinci/Dr0p1t-Framework
 
 ;;
 
 #Instal Subfinder
 
-357) git clone https://github.com/subfinder/subfinder
+9) git clone https://github.com/subfinder/subfinder
 
 ;;
 
 #Install SwiftKeylogger
 
-358) git clone https://github.com/SkrewEverything/Swift-Keylogger
+10) git clone https://github.com/SkrewEverything/Swift-Keylogger
 
 ;;
 
 #Install DockerScan
 
-359) git clone https://github.com/cr0hn/dockerscan
+11) git clone https://github.com/cr0hn/dockerscan
 
 ;;
 
 #Install Kubik-bot
 
-390) git clone https://github.com/radenvodka/kubik-bot
+12) git clone https://github.com/radenvodka/kubik-bot
 
 ;;
 
 #Install Icebreaker
 
-391) git clone https://github.com/DanMcInerney/icebreaker
+13) git clone https://github.com/DanMcInerney/icebreaker
 
 ;;
 
 #Install Blackarch
 
-392) git clone https://github.com/BlackArch/blackarch
+14) git clone https://github.com/BlackArch/blackarch
 
 ;;
 
 #Install WEBDAV
 
-393) apt update && apt upgrade
+15) apt update && apt upgrade
 apt install python2
 pip2 install urllib3 chardet certifi idna requests
 apt install openssl curl
@@ -246,26 +242,26 @@ python2 webdav.py
 
 #Install Weevely
 
-394) git clone https://github.com/glides/Weevely
+16) git clone https://github.com/glides/Weevely
 
 ;;
 
 #Install Dirsearch.git
 
-395) git clone https://github.com/maurosoria/dirsearch.git
+17) git clone https://github.com/maurosoria/dirsearch.git
 
 
 ;;
 
 #Install Bluepot.git
 
-396) git clone https://git.kali.org/packages/bluepot.git
+18) git clone https://git.kali.org/packages/bluepot.git
 
 ;;
 
 #Install Bot.git
 
-397) git clone https://github.com/mrcakil/bot.git
+19) git clone https://github.com/mrcakil/bot.git
 
 ;;
 
